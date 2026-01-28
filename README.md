@@ -15,7 +15,7 @@ Expert software architecture council with 6 advisors for code design, architectu
 
 ### Claude Code
 ```bash
-/plugin add https://github.com/TOPAiiN/technical-architecture-council
+/plugin add https://github.com/antonioc-cl/technical-architecture-council
 ```
 
 ### Claude.ai
