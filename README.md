@@ -13,6 +13,11 @@ Expert software architecture council with 6 advisors for code design, architectu
 
 ## Installation
 
+### npx skills add (recommended)
+```bash
+npx skills add antonioc-cl/technical-architecture-council
+```
+
 ### Claude Code
 ```bash
 /plugin add https://github.com/antonioc-cl/technical-architecture-council
